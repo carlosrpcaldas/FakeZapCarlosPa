@@ -4,6 +4,7 @@ import android.app.Fragment
 import android.app.FragmentManager
 import android.support.v4.app.FragmentPagerAdapter
 
+
 /**
  * Created by logonrm on 19/03/2018.
  */
