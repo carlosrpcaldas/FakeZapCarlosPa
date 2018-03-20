@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "911587616390",
+    "firebase_url": "https://fakezapcarlospa-15993.firebaseio.com",
+    "project_id": "fakezapcarlospa-15993",
+    "storage_bucket": "fakezapcarlospa-15993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911587616390:android:f28be7ea88ef31aa",
+        "android_client_info": {
+          "package_name": "com.example.logonrm.fakezapcarlospa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911587616390-e2cm0u0krkujniv3voln4kk890dijag7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logonrm.fakezapcarlospa",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "911587616390-bg6pdiihc91n9m46190p6qc1gok78ijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsgw8odBBoLKmwJxLYGNad0NOH5I6Ahc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911587616390-bg6pdiihc91n9m46190p6qc1gok78ijg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
